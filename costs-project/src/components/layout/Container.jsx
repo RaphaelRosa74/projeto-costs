@@ -1,10 +1,9 @@
-import { Outlet } from 'react-router-dom';
 import styles from './Container.module.css';
 
-function Container({ customClass }) {
+function Container({ children, customClass }) {
   return (
     <div className={`${styles.container} ${customClass ? styles[customClass] : ''}`}>
-      <Outlet />
+      {children}
     </div>
   );
 }

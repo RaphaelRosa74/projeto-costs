@@ -5,7 +5,7 @@
   font-family: 'Open Sans', 'sans-serif';
 }
 
-html, body, #root{
+html, body, #root, .App{
   background-color: #efefef;
   height: 100%;
 }
