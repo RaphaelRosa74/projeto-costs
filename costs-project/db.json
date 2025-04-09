@@ -32,6 +32,72 @@
       },
       "cost": 0,
       "services": []
+    },
+    {
+      "id": "57e3",
+      "name": "teste",
+      "budget": "5000",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "c337",
+      "name": "teste",
+      "budget": "300",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "faab",
+      "name": "teste",
+      "budget": "33333",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "34c1",
+      "name": "teste",
+      "budget": "222",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "5dcf",
+      "name": "Raphael",
+      "budget": "23233",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "90fa",
+      "name": "teste",
+      "budget": "2222",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": []
     }
   ],
   "categorias": [
