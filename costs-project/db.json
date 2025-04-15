@@ -14,10 +14,10 @@
     {
       "id": "9a0d",
       "name": "Barao vermelho",
-      "budget": "15000",
+      "budget": "16000",
       "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
+        "id": "4",
+        "name": "Planejamento"
       },
       "cost": 0,
       "services": []
