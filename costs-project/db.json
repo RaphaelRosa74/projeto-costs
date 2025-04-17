@@ -19,13 +19,13 @@
         "id": "4",
         "name": "Planejamento"
       },
-      "cost": 98,
+      "cost": 500,
       "services": [
         {
-          "name": "Barao vermelho2",
-          "cost": "98",
-          "description": "blabla",
-          "id": "e977bd1d-30eb-49c0-9eea-6473f45e59a2"
+          "name": "Contratar dev back",
+          "cost": "500",
+          "description": "backend",
+          "id": "bd04603a-a14d-4d8d-99bc-5bb4e3719428"
         }
       ]
     },
