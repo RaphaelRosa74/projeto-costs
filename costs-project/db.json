@@ -19,8 +19,15 @@
         "id": "4",
         "name": "Planejamento"
       },
-      "cost": 0,
-      "services": []
+      "cost": 98,
+      "services": [
+        {
+          "name": "Barao vermelho2",
+          "cost": "98",
+          "description": "blabla",
+          "id": "e977bd1d-30eb-49c0-9eea-6473f45e59a2"
+        }
+      ]
     },
     {
       "id": "b4af",
