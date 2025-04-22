@@ -105,6 +105,7 @@ function Project(){
         })
         .catch((err) => console.log(err))
 }
+
     function removeService(id, cost){
          
         const servicesUpdated = project.services.filter(
